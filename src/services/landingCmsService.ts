@@ -7,7 +7,7 @@ export const DEFAULT_LANDING_CONTENT: LandingCmsContent = {
   heroTagline: 'Inovasi Smart City & Konservasi Bahari Teluk Jakarta',
   heroHeadline: 'SEABRIS — Smart Marine Debris Management System',
   heroSubheadline: 'Sistem Pengumpul dan Monitoring Sampah Pesisir Pintar Berbasis IoT Terintegrasi untuk Mitigasi Pencemaran Plastik di Teluk Jakarta.',
-  heroImage: '/src/assets/images/jaksea_floating_barrier_1793092523454.jpg',
+  heroImage: '/images/jaksea_floating_barrier_1793092523454.jpg',
   heroImageBadge: 'Instalasi Lapangan',
   heroImageTitle: 'Penghalang Terapung & Keranjang Sensor SEABRIS',
   heroImageSubtitle: 'Muara Angke · Teluk Jakarta',
@@ -15,13 +15,13 @@ export const DEFAULT_LANDING_CONTENT: LandingCmsContent = {
   sensorTagline: 'Teknologi Sensor & Arsitektur',
   sensorTitle: 'Deteksi Keterisian Akurat Tanpa Bergantung Jaringan Listrik PLN',
   sensorDescription: 'Setiap unit SEABRIS dilengkapi panel surya monokristalin mandiri, baterai LiFePO4 tahan cuaca laut, dan modul sensor jarak ultrasonik industri IP67 yang terus aktif memantau volume sampah siang dan malam.',
-  sensorImage: '/src/assets/images/sensor_baru.jpg',
+  sensorImage: '/images/sensor_baru.jpg',
   sensorImageAlt: 'Modul Sensor Ultrasonik IoT SEABRIS Tahan Air Garam',
 
   actionTagline: 'Kolaborasi Petugas & Partisipasi Publik',
   actionTitle: 'Menghubungkan Masyarakat Pesisir dengan Petugas Pengelola',
   actionDescription: 'Masyarakat di sekitar Teluk Jakarta dapat berpartisipasi aktif dengan mengirimkan laporan foto sampah terapung beserta koordinat GPS. Laporan tersebut langsung masuk ke sistem monitoring petugas untuk ditindaklanjuti.',
-  actionImage: '/src/assets/images/bersih_bersih.jpeg',
+  actionImage: '/images/bersih_bersih.jpeg',
   actionImageAlt: 'Aksi Pembersihan dan Patroli Tim Lingkungan di Muara Pesisir Jakarta',
 
   urgencyTagline: 'Urgensi Lingkungan Hidup',
@@ -36,17 +36,17 @@ export const PRESET_IMAGE_OPTIONS = [
   {
     id: 'floating-barrier',
     label: 'Penghalang Terapung SEABRIS (Muara Angke)',
-    url: '/src/assets/images/jaksea_floating_barrier_1793092523454.jpg'
+    url: '/images/jaksea_floating_barrier_1793092523454.jpg'
   },
   {
     id: 'sensor-device',
     label: 'Modul Sensor IoT & Baterai Surya',
-    url: '/src/assets/images/jaksea_sensor_device_1793092524411.jpg'
+    url: '/images/jaksea_sensor_device_1793092524411.jpg'
   },
   {
     id: 'coastal-action',
     label: 'Aksi Bersih Pesisir & Patroli Tim Lapangan',
-    url: '/src/assets/images/jaksea_coastal_action_1793092523493.jpg'
+    url: '/images/jaksea_coastal_action_1793092523493.jpg'
   }
 ];
 

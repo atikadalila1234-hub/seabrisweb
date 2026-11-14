@@ -56,17 +56,17 @@ export const AiWasteScannerPage: React.FC<AiWasteScannerPageProps> = ({
   const samplePresets = [
     {
       name: 'Botol Plastik Muara',
-      url: '/src/assets/images/jaksea_floating_barrier_1793092523454.jpg',
+      url: '/images/jaksea_floating_barrier_1793092523454.jpg',
       categoryHint: 'Plastik (PET)',
     },
     {
       name: 'Tumpukan Sampah Mangrove',
-      url: '/src/assets/images/jaksea_coastal_action_1793092523493.jpg',
+      url: '/images/jaksea_coastal_action_1793092523493.jpg',
       categoryHint: 'Plastik Campuran & Sachet',
     },
     {
       name: 'Keranjang Sampah Sensor',
-      url: '/src/assets/images/jaksea_sensor_device_1793092524411.jpg',
+      url: '/images/jaksea_sensor_device_1793092524411.jpg',
       categoryHint: 'Residu & Logam',
     },
   ];
