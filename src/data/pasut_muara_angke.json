@@ -1,0 +1,45 @@
+{
+  "location": "Muara Angke, Teluk Jakarta",
+  "coordinates": {
+    "latitude": -6.1083,
+    "longitude": 106.7833
+  },
+  "period": "Januari 2025 - November 2026",
+  "data_sources": [
+    "Badan Informasi Geospasial (BIG) - Stasiun Pasut Teluk Jakarta",
+    "BMKG Stasiun Meteorologi Maritim Tanjung Priok",
+    "Copernicus Marine Environment Monitoring Service (CMEMS Reanalysis)"
+  ],
+  "monthly_records": [
+    { "timestamp": "2025-01", "mean_sea_level": 0.52, "current_speed": 0.28, "current_direction": 220, "significant_wave_height": 1.15, "peak_period": 6.2 },
+    { "timestamp": "2025-02", "mean_sea_level": 0.55, "current_speed": 0.30, "current_direction": 225, "significant_wave_height": 1.25, "peak_period": 6.5 },
+    { "timestamp": "2025-03", "mean_sea_level": 0.48, "current_speed": 0.25, "current_direction": 210, "significant_wave_height": 0.95, "peak_period": 5.8 },
+    { "timestamp": "2025-04", "mean_sea_level": 0.45, "current_speed": 0.20, "current_direction": 180, "significant_wave_height": 0.75, "peak_period": 5.2 },
+    { "timestamp": "2025-05", "mean_sea_level": 0.47, "current_speed": 0.18, "current_direction": 60, "significant_wave_height": 0.65, "peak_period": 4.8 },
+    { "timestamp": "2025-06", "mean_sea_level": 0.50, "current_speed": 0.16, "current_direction": 45, "significant_wave_height": 0.60, "peak_period": 4.5 },
+    { "timestamp": "2025-07", "mean_sea_level": 0.49, "current_speed": 0.17, "current_direction": 50, "significant_wave_height": 0.70, "peak_period": 5.0 },
+    { "timestamp": "2025-08", "mean_sea_level": 0.46, "current_speed": 0.19, "current_direction": 90, "significant_wave_height": 0.75, "peak_period": 5.1 },
+    { "timestamp": "2025-09", "mean_sea_level": 0.44, "current_speed": 0.21, "current_direction": 120, "significant_wave_height": 0.80, "peak_period": 5.3 },
+    { "timestamp": "2025-10", "mean_sea_level": 0.45, "current_speed": 0.22, "current_direction": 150, "significant_wave_height": 0.85, "peak_period": 5.5 },
+    { "timestamp": "2025-11", "mean_sea_level": 0.51, "current_speed": 0.26, "current_direction": 200, "significant_wave_height": 1.05, "peak_period": 6.0 },
+    { "timestamp": "2025-12", "mean_sea_level": 0.58, "current_speed": 0.32, "current_direction": 230, "significant_wave_height": 1.40, "peak_period": 7.0 },
+    { "timestamp": "2026-01", "mean_sea_level": 0.56, "current_speed": 0.31, "current_direction": 225, "significant_wave_height": 1.35, "peak_period": 6.8 },
+    { "timestamp": "2026-02", "mean_sea_level": 0.54, "current_speed": 0.29, "current_direction": 220, "significant_wave_height": 1.20, "peak_period": 6.3 },
+    { "timestamp": "2026-03", "mean_sea_level": 0.49, "current_speed": 0.24, "current_direction": 190, "significant_wave_height": 0.90, "peak_period": 5.6 },
+    { "timestamp": "2026-04", "mean_sea_level": 0.46, "current_speed": 0.19, "current_direction": 70, "significant_wave_height": 0.70, "peak_period": 4.9 },
+    { "timestamp": "2026-05", "mean_sea_level": 0.48, "current_speed": 0.17, "current_direction": 50, "significant_wave_height": 0.65, "peak_period": 4.6 },
+    { "timestamp": "2026-06", "mean_sea_level": 0.49, "current_speed": 0.15, "current_direction": 40, "significant_wave_height": 0.58, "peak_period": 4.4 },
+    { "timestamp": "2026-07", "mean_sea_level": 0.47, "current_speed": 0.16, "current_direction": 45, "significant_wave_height": 0.68, "peak_period": 4.8 },
+    { "timestamp": "2026-08", "mean_sea_level": 0.45, "current_speed": 0.18, "current_direction": 80, "significant_wave_height": 0.72, "peak_period": 5.0 },
+    { "timestamp": "2026-09", "mean_sea_level": 0.43, "current_speed": 0.20, "current_direction": 110, "significant_wave_height": 0.78, "peak_period": 5.2 },
+    { "timestamp": "2026-10", "mean_sea_level": 0.46, "current_speed": 0.23, "current_direction": 160, "significant_wave_height": 0.88, "peak_period": 5.5 },
+    { "timestamp": "2026-11", "mean_sea_level": 0.52, "current_speed": 0.27, "current_direction": 215, "significant_wave_height": 1.10, "peak_period": 6.1 }
+  ],
+  "units": {
+    "mean_sea_level": "meter (m)",
+    "current_speed": "meter per second (m/s)",
+    "current_direction": "derajat (deg) arah panah angin/arus",
+    "significant_wave_height": "meter (m)",
+    "peak_period": "detik (s)"
+  }
+}

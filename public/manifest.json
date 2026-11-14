@@ -1,0 +1,22 @@
+{
+  "short_name": "SEABRIS",
+  "name": "SEABRIS — Smart Marine Debris Management System",
+  "description": "Sistem Monitoring Sampah Plastik Terapung IoT Teluk Jakarta",
+  "icons": [
+    {
+      "src": "/assets/aistudio/1__1__22a3ff2f.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/aistudio/1__1__22a3ff2f.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#023E8A",
+  "theme_color": "#0077B6",
+  "display": "standalone",
+  "orientation": "portrait"
+}

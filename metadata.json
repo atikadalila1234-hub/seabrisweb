@@ -1,0 +1,10 @@
+{
+  "name": "Remix Remix Remix JAKSEA – Jakarta Smart Environmental Action",
+  "description": "Inovasi sistem penangkap dan monitoring sampah plastik terapung berbasis IoT untuk kawasan pesisir Teluk Jakarta.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+.aistudio/
+.vscode/
+public/assets/aistudio/*
+!public/assets/aistudio/1__1__22a3ff2f.png
