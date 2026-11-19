@@ -140,8 +140,8 @@ Supabase memakai tabel: `devices`, `sensor_logs`, `notifications`, `waste_scans`
 
 | Data | Keterangan |
 |---|---|
-| Oseanografi (muka air laut, arus, gelombang) | Data bulanan Jan 2025 – Nov 2026 pada `src/data/pasut_muara_angke.json`. Berkas mencantumkan sumber: Badan Informasi Geospasial (BIG), BMKG Stasiun Meteorologi Maritim Tanjung Priok, dan Copernicus Marine Service (CMEMS).|
-| Angka edukasi sampah (volume harian, komposisi) |
+| Oseanografi (muka air laut, arus, gelombang) | Data bulanan Jan 2025 – Nov 2026 pada `src/data/pasut_muara_angke.json`. Berkas mencantumkan sumber: Badan Informasi Geospasial (BIG), BMKG Stasiun Meteorologi Maritim Tanjung Priok, dan Copernicus Marine Service (CMEMS). Data ilustratif bulanan Jan 2025 – Nov 2026 pada src/data/pasut_muara_angke.json, disusun dengan bantuan AI berdasarkan pola musiman perairan Teluk Jakarta. Bukan data pengukuran langsung dan belum diverifikasi ke sumber resmi. Nama instansi (BIG, BMKG Stasiun Meteorologi Maritim Tanjung Priok, CMEMS) merujuk pada sumber yang direncanakan untuk data resmi pada tahap pengembangan berikutnya.|
+| Angka edukasi sampah (volume harian, komposisi) | Estimasi ilustratif untuk keperluan edukasi, bukan hasil audit lapangan. Arah proporsinya (plastik dan styrofoam dominan) selaras dengan temuan Cordova & Nurhati (2019), "Major Sources and Monthly Variations in the Release of Land-derived Marine Debris from the Greater Jakarta Area", Scientific Reports, yang menemukan sekitar 59% sampah di sembilan muara sungai adalah plastik dengan dominasi styrofoam. Angka pada website belum diverifikasi ke data primer. |
 
 ## Keterbatasan
 
