@@ -140,8 +140,8 @@ Supabase memakai tabel: `devices`, `sensor_logs`, `notifications`, `waste_scans`
 
 | Data | Keterangan |
 |---|---|
-| Oseanografi (muka air laut, arus, gelombang) | Data bulanan Jan 2025 – Nov 2026 pada `src/data/pasut_muara_angke.json`. Berkas mencantumkan sumber: Badan Informasi Geospasial (BIG), BMKG Stasiun Meteorologi Maritim Tanjung Priok, dan Copernicus Marine Service (CMEMS). **[Verifikasi nilainya ke sumber asli sebelum dikutip sebagai data resmi]** |
-| Angka edukasi sampah (volume harian, komposisi) | **[Cantumkan sumber/referensi]** |
+| Oseanografi (muka air laut, arus, gelombang) | Data bulanan Jan 2025 – Nov 2026 pada `src/data/pasut_muara_angke.json`. Berkas mencantumkan sumber: Badan Informasi Geospasial (BIG), BMKG Stasiun Meteorologi Maritim Tanjung Priok, dan Copernicus Marine Service (CMEMS).|
+| Angka edukasi sampah (volume harian, komposisi) |
 
 ## Keterbatasan
 
